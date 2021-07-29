@@ -1,8 +1,3 @@
-👷👷 I'm a junior developer interested in working with Node.JS 👷👷
-
-📝📝 I love clean code. 📝📝
-
-
 | <img src="https://github-readme-stats.vercel.app/api?username=nicole1707&show_icons=true&theme=tokyonight"/>  |  <img with="" height="138" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicole1707&layout=compact"/>  |
 |---|---|
 
