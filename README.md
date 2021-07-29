@@ -1,16 +1,14 @@
-### Hi there 👋
 
-<!--
-**Nicole1707/Nicole1707** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👷👷 I'm a junior developer interested in working with Node.JS 👷👷
 
-Here are some ideas to get you started:
+📝📝 I love clean code. 📝📝
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+| <img src="https://github-readme-stats.vercel.app/api?username=joseereyes&show_icons=true&theme=tokyonight"/>  |  <img with="" height="138" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseereyes&layout=compact"/>  |
+|---|---|
+
+# I have worked with: 
+
+| <img src="https://cdn.discordapp.com/attachments/741804505191940166/862004098407858186/unknown.png" />  | <img width="270" height="117" src="https://hackernoon.com/hn-images/1*HSisLuifMO6KbLfPOKtLow.jpeg" />  |
+|---|---|
+
